@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+  <Accounts>
+    <item UserName="lujianjun" Password="MTExMTEx" Hello="%CB%CE%CC"/>
+  </Accounts>
+  <IP>
+    <Server Host="222.24.19.190" Port="8080"/>
+    <Local Address="<!--You IP here-->"/>
+  </IP>
+</Settings>
